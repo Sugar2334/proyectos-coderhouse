@@ -11,7 +11,7 @@ body{
 
 /* Inicio NavBar */
 .menu {
-    background-color: #000;
+    background-color: rgb(146, 17, 17);
     font-family: 'Raleway', sans-serif;
     height: 75px;
     width: 100vw;
